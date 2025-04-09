@@ -4,14 +4,14 @@ Este é um projeto de uma Pokédex desenvolvido com **HTML**, **CSS** e **JavaSc
 
 ## 🔍 Sobre o Projeto
 
-A Pokédex exibe informações sobre diversos Pokémon, como nome, número, imagem e tipo. Os dados são obtidos através da **PokéAPI**, e o layout foi estilizado para proporcionar uma interface amigável e responsiva.
+A Pokédex exibe informações sobre diversos Pokémon, como nome, número e imagem. Os dados são obtidos através da **PokéAPI**, e o layout foi estilizado para proporcionar uma interface amigável e responsiva.
 
 ## 💡 Funcionalidades
 
 - Busca de Pokémon pelo nome ou número
 - Navegação entre os Pokémon
 - Interface simples e responsiva
-- Exibição de imagem, nome, número e tipo do Pokémon
+- Exibição de imagem, nome e número do Pokémon
 
 ## 🛠️ Tecnologias Utilizadas
 
